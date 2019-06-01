@@ -22,3 +22,5 @@ after_success:
   - docker push geoffroygivry/multi-nginx
   - docker push geoffroygivry/multi-server
   - docker push geoffroygivry/multi-worker
+
+  # next will be the deployment.
